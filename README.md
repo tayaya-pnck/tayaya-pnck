@@ -1,4 +1,4 @@
-# Hi there, I'm Athaya (taya/pancake) 👋
+# Hi there, I'm Taya (you can call me Pancake) 👋
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tayaya-pnck&style=flat-square&color=blue" alt="Profile Views" />
