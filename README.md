@@ -1,60 +1,52 @@
-# Hi there, I'm Taya (you can call me Pancake) 👋
+### Hi there, I'm Athaya Abdan Hanif 👋
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tayaya-pnck&style=flat-square&color=blue" alt="Profile Views" />
-  <a href="https://linkedin.com/in/AthayaHanif">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+I am a **Machine Learning Engineer & AI Developer** specializing in designing end-to-end predictive models, robust signal processing architectures, and scalable Generative AI pipelines. I bridge the gap between heavy machine learning research and containerized, production-ready backend deployments.
 
 ---
 
-## 👨‍💻 About Me
+### 🛠️ Tech Stack
+* **Languages:** Python, Java, SQL
+* **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-Learn, YOLOv8, Deep Learning (CNNs, RNNs), Computer Vision, LangChain, n8n, RAG & Agentic AI
+* **Data Engineering & Libraries:** Pandas, NumPy, Matplotlib, Librosa, PostgreSQL, ChromaDB
+* **Tools & Infrastructure:** Git, Docker, Docker Compose, Linux (Ubuntu Server, Fedora), Subdomain Routing, Streamlit
 
-I'm an Informatics graduate passionate about leveraging technology to solve real-world problems. Whether it's training machine learning models for medical diagnostics, developing gamified mobile applications, or building digital marketing platforms, I love diving into complex systems and delivering practical solutions. 
+---
 
-- 🎓 Recently graduated with a Bachelor's in Informatics (Computer Science).
-- 🔬 Currently exploring high-performance computing, advanced AI/ML architectures, and mobile app ecosystems.
-- 💡 Always open to collaborating on open-source projects or innovative tech ventures.
-- 💬 Ask me about **Machine Learning, Mobile Development, or Custom PC Builds!**
+### 🚀 Featured Projects
 
-## 🛠️ Tech Stack & Tools
+#### 1. End-to-End Diabetes AI Chatbot & Prediction Engine
+* **Tech:** Python, RAG, ChromaDB, LangChain, Docker Compose, Streamlit, Machine Learning Classifier
+* **Overview:** A full-stack clinical healthcare application bridging traditional predictive machine learning with Generative AI via Retrieval-Augmented Generation (RAG). 
+* **Key Highlights:**
+  * Engineered an automated data pipeline passing user parameters through an ML classifier to dynamically inject diagnostic probabilities into an LLM's active memory buffer.
+  * Integrated ChromaDB as a vector store to retrieve verified medical literature, allowing the agent to synthesize real-time user risk metrics with contextual medical grounding.
+  * Fully containerized via Docker Compose and deployed with an interactive Streamlit user interface.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+#### 2. Real-Time Pothole Detection System
+* **Tech:** Python, YOLOv8n, PyTorch, Computer Vision, AMP, AdamW
+* **Overview:** A computer vision pipeline built for automated public infrastructure monitoring and road degradation tracking.
+* **Key Highlights:**
+  * Utilized YOLOv8n to identify and track road defects from high-speed video feeds.
+  * Optimized model inference efficiency using Automatic Mixed Precision (AMP) and the AdamW optimizer.
+  * Boosted real-time video processing speeds by 40% for low-latency bounding box rendering.
 
-### Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+#### 3. Classification of Respiratory Diseases Based on Audio (Undergraduate Thesis)
+* **Tech:** Python, PyTorch, CNN-BiGRU, Librosa, Signal Processing (Butterworth, EMD, MFCC)
+* **Overview:** Research-backed diagnostic system classifying respiratory pathologies from 6,896 raw clinical audio files (ICBHI 2017 dataset).
+* **Key Highlights:**
+  * Built an automated multi-stage signal processing pipeline using Butterworth filters and Empirical Mode Decomposition (EMD) to isolate clean physiological frequencies.
+  * Designed a custom hybrid CNN-BiGRU architecture to extract spatial features from (200, 13, 3) MFCC tensors while capturing long-range temporal dependencies.
+  * Achieved a **92.5% macro F1-score** while compressing model computational complexity by **46%** compared to baseline CNN-LSTM architectures.
 
-### Tools & Infrastructure
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nvidia](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+#### 4. Speech Emotion Recognition (SER) System
+* **Tech:** Python, PyTorch, CNNs, Librosa, Data Augmentation
+* **Overview:** Deep learning classification system predicting human emotional states from raw vocal patterns using the CREMA-D dataset (7,442 audio clips).
+* **Key Highlights:**
+  * Developed a preprocessing pipeline converting raw audio waveforms into spectrograms and extracting MFCC features.
+  * Applied automated data augmentation pipelines (dynamic noise injection, pitch shifting) to mitigate target class imbalance and improve model generalization.
 
-## 🚀 Featured Projects
+---
 
-### [Lung Disease Detection Model](link-to-repo)
-A machine learning pipeline designed to detect respiratory anomalies from audio data.
-- **Tech:** Python, TensorFlow, Audio Processing Libraries
-- **Impact:** Published at an international conference, demonstrating how AI can support medical diagnostics.
-
-### [FindQuest](link-to-repo)
-A gamified gig-economy mobile application connecting users for hyper-local tasks.
-- **Tech:** Flutter, Firebase
-- **Impact:** Streamlined local task delegation through an intuitive, reward-based interface.
-
-### [AHA Food Digital Platform](link-to-repo)
-A comprehensive digital presence and operational website for an F&B business.
-- **Tech:** Web technologies, Digital Marketing Strategy
-- **Impact:** Increased digital footprint and optimized customer engagement for local catering services.
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
-</div>
+### 📫 Connect With Me
+* **LinkedIn:** [linkedin.com/in/athayahanif](https://www.linkedin.com/in/athayahanif)
+* **Email:** athayahanif.18@gmail.com
