@@ -28,10 +28,10 @@ I bridge the gap between heavy machine learning research and containerized, prod
 
 ---
 
-### 🧠 My Core Tech Stack Breakdown
+### 📈 Tech Stack Distribution
 
 ```mermaid
-pie title Tech Stack Distribution
+pie title Tech Stack Breakdown
     "Deep Learning & Computer Vision" : 35
     "Generative AI & RAG Pipelines" : 25
     "Data Engineering & Signal Processing" : 20
